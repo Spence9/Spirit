@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="1005149276042690672">
+  <a href="https://discordapp.com/oauth2/authorize?client_id=1005149276042690672&scope=bot+applications.commands&permissions=8">
     <img
       alt="Spirit"
       src="https://images-ext-2.discordapp.net/external/PiNeBDVQiDgb1CIHGIXzd8h6JOySl93ie86hWZpzJO4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1005149276042690672/f22f32ef1bfc2fb00c4cbc46cf4e0e0f.png"
@@ -24,3 +24,11 @@ Spirit is a multifunctional discord bot coded in Python
 - [Antinuke](https://github.com/Spence9/Spirit/wiki/antinuke)<br>
 - [Logging](https://github.com/Spence9/Spirit/wiki/logging)
 
+## Usefull Links
+
+- [Invite](https://discordapp.com/oauth2/authorize?client_id=1005149276042690672&scope=bot+applications.commands&permissions=8)<br>
+- [Support](https://discord.gg/programmer)
+
+## Developers
+- [- mxybe.spence#5821](https://discord.com/users/971351289306947594)<br>
+- [NotRealAce#4610](https://discord.com/users/1004931460681171026)
