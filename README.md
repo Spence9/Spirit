@@ -34,3 +34,7 @@ Spirit is a multifunctional discord bot coded in Python
 ## Developers
 - [- mxybe.spence#5821](https://discord.com/users/971351289306947594)<br>
 - [NotRealAce#4610](https://discord.com/users/1004931460681171026)
+
+## Bot list
+- [discord.bots.gg](https://discord.bots.gg/bots/1005149276042690672)<br>
+- [discordbotlist.com](https://discordbotlist.com)
