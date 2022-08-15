@@ -1,5 +1,5 @@
 # Spirit
-a multifunctional discord bot
+Spirit is a multifunctional discord bot coded in Python
 
 
 ## Features
