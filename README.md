@@ -12,6 +12,8 @@ Spirit is a multifunctional discord bot coded in Python
 ## Information
 * Default prefix `_`<br>
 * Commands `67`
+* Python `v3.8.12`
+* Pycord `v2.1.0`
 
 ## Features
 
