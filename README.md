@@ -8,13 +8,15 @@ a multifunctional discord bot
 
 [Information](https://github.com/Spence9/Spirit/wiki/information)
 
-Utility
+[Utility](https://github.com/Spence9/Spirit/wiki/utility)
 
-Ticket
+[Ticket](https://github.com/Spence9/Spirit/wiki/ticket)
 
-Verification
+[Verification](https://github.com/Spence9/Spirit/wiki/verification)
  
-Automod
+[Automod](https://github.com/Spence9/Spirit/wiki/automod)
 
-Antinuke
+[Antinuke](https://github.com/Spence9/Spirit/wiki/antinuke)
+
+[Logging](https://github.com/Spence9/Spirit/wiki/logging)
 
