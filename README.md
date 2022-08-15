@@ -10,8 +10,8 @@
 Spirit is a multifunctional discord bot coded in Python
 
 ## Information
-> default prefix `_`
-> commands `67`
+* Default prefix `_`<br>
+* Commands `67`
 
 ## Features
 
