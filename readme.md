@@ -21,12 +21,12 @@ Spirit is a multifunctional discord bot coded in Python
 - [Information](https://github.com/Spence9/Spirit/wiki/information)<br>
 - [Utility](https://github.com/Spence9/Spirit/wiki/utility)<br>
 - [Ticket](https://github.com/Spence9/Spirit/wiki/ticket)<br>
-- [Verification](https://github.com/Spence9/Spirit/wiki/verification)<br>
+- [Games](https://github.com/Spence9/Spirit/wiki/games)<br>
 - [Automod](https://github.com/Spence9/Spirit/wiki/automod)<br>
 - [Antinuke](https://github.com/Spence9/Spirit/wiki/antinuke)<br>
-- [Logging](https://github.com/Spence9/Spirit/wiki/logging)
-- [Autorole]
-- [Games]
+- [Logging](https://github.com/Spence9/Spirit/wiki/logging)<br>
+- [Autorole](https://github.com/Spence9/Spirit/wiki/autorole)<br>
+- [Verification](https://github.com/Spence9/Spirit/wiki/verification)
 
 ## Usefull Links
 
