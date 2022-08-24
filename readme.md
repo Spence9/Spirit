@@ -28,10 +28,10 @@ Spirit is a multifunctional discord bot coded in Python
 - [Autorole](https://github.com/Spence9/Spirit/wiki/autorole)<br>
 - [Verification](https://github.com/Spence9/Spirit/wiki/verification)
 
-## Usefull Links
+## Useful Links
 
 - [Invite](https://discordapp.com/oauth2/authorize?client_id=1005149276042690672&scope=bot+applications.commands&permissions=8)<br>
-- [Support](https://discord.gg/programmer)
+- [Support](https://discord.gg/uccjvEuz3f)
 - [Website](https://spirit-hq.github.io/)
 
 ## Developers
